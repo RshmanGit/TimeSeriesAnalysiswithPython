@@ -1,0 +1,8 @@
+First install pipenv in your system.
+
+Inside this directory run:
+    - pipenv shell
+    - pipenv install
+    - jupyter notebook ./time_series/
+
+Now in the browser run each of the notebooks independently to Get the results.
